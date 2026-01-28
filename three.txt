@@ -1,5 +1,8 @@
 three
 3
+<<<<<<< HEAD
 hello 3
 
 adding dark mode ui
+=======
+>>>>>>> ae45dae (Revert "hello three in three.txt")
